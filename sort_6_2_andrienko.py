@@ -5,7 +5,8 @@ def main(path):
     path_root = path
     dst_doc = path_root + '\\' + 'documents'
     global new_folders
-  
+    
+    #My v
     
     photo_files = ['\.jpeg$','\.png$','\.jpg$','\.svg$']
     video_files = ['\.avi$','\.mp4$','\.mov$','\.mkv$']
